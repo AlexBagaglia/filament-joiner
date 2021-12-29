@@ -1,5 +1,5 @@
 /*
- * software_riscaldatore.ino
+ * heater-with-nokia-display.ino
  *
  * Copyright 2021 A. Bagaglia, derived from Victor Chew 2020
  *
