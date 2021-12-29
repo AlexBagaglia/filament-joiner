@@ -1,4 +1,4 @@
-# Filament Joiner
+# Filament Joiner Updated for better temp control and nokia display
 
 Code for setting up and driving a 3D printer hotend rigged up to an Arduino to provide a temperature-controlled platform for anything going from filament join to make filament from plastic bottles.
 
