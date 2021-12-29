@@ -1,6 +1,6 @@
 # Filament Joiner
 
-Code for setting up and driving a 3D printer hotend rigged up to an Arduino to provide a temperature-controlled platform for joining 3D filaments. Filaments joined this way have a strong and non-brittle bond compared to using uncontrolled heat sources such as a candle or lighter.
+Code for setting up and driving a 3D printer hotend rigged up to an Arduino to provide a temperature-controlled platform for anything going from filament join to hotend to make filament from plastic bottles.
 
 - follow randseq instructions at (https://www.randseq.org/2020/02/3d-printer-filament-joiner.html) for oled display
 - If you use a nokia lcd 5110 consider it works at 3.3 volts provided at pin 17 of arduino (5v burns it), forthermore the nokia display has the following pinout:
